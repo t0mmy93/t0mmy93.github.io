@@ -5,7 +5,13 @@
 	<projects>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>com.palantir.tslint.tslintBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>com.palantir.tslint.tslintNature</nature>
 	</natures>
 </projectDescription>
